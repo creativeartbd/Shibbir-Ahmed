@@ -2,7 +2,7 @@
 - 👀 I’m interested in website design and development.
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on web development project.
-- 📫 How to reach me? Just send your email to creativeartbd@gmail.com
+- 📫 How to reach me? Just send your email to shibbir.me@gmail.com
 
 <!---
 creativeartbd/creativeartbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

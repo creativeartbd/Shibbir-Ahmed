@@ -19,13 +19,9 @@ If you hire me, you can depend on me being available ongoing, as needed, for yea
 ## My expertise
 
 - WordPress Theme Development. 
-  -  I can build any WordPress theme from PSD.
 - WordPress Plugin Development.
-  -  Share you idea, I will build it using WordPrewss Plugin.
 - eCommerce Development.
-  -  I can build eCommerce website using WordPress. 
-- PHP
-  - I can build anything with PHP.
+- Anything with PHP.
 
 ## My technologies
 

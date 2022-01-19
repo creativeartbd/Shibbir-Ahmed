@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shibbir Ahmed
+## 👋 Hi, I’m Shibbir Ahmed
 - 👀 I’m interested in WordPress theme and plugin development.
 - 🌱 I’m currently learning react and working as a WordPress Developer.
 - 💞️ I’m looking to collaborate on web development project.
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
+[![Header](https://shibbir.dev/wp-content/uploads/2022/01/WordPrewss-theme-plugin-developer-scaled.jpg "Header")](https://www.shibbir.dev/)
 
 Hi there ✋!  
 We are [Creative Tim](https://www.creative-tim.com/)<img src="https://www.creative-tim.com/assets/logo/logo-ct-white-170d794e447f75aec55c6effdfbedced9dd268ceceece152675ff8f9891e3588.svg" />

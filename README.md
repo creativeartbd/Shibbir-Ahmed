@@ -27,13 +27,16 @@ If you hire me, you can depend on me being available ongoing, as needed, for yea
 
 My websites are built on top of modern frameworks. Having the coded and the designed versions for the same framework, your designers and developers will talk the same language.
 
-<p>
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sass.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/wordpress.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/icon-laravel.jpg" width="67.5px" />
-</p>
+- HTML5
+- CSS3
+- PHP
+- MySQL
+- WordPress
+- Laravel
+- React
+- JavaScript
+- jQuery
+- Ajax
 
 ## Contact me
 

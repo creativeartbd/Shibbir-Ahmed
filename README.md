@@ -1,8 +1,4 @@
-## 👋 Hi, I’m Shibbir Ahmed
-- 👀 I’m interested in WordPress theme and plugin development.
-- 🌱 I’m currently learning react and working as a WordPress Developer.
-- 💞️ I’m looking to collaborate on web development project.
-- 📫 How to reach me? Just send your email to shibbir.me@gmail.com
+## 👋 Hi, I’m Shibbir Ahmed, WordPress and PHP Web Developer.
 
 <!---
 creativeartbd/creativeartbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

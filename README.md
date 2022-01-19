@@ -40,7 +40,7 @@ My websites are built on top of modern frameworks. Having the coded and the desi
 
 ## Contact me
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativeartbd) (https://www.youtube.com/channel/UCkdPCRKSzZTVB9eo9CDdTQw)
+Please send an email to shibbir.me@gmail.com
 
 <p align="center"> © 2021 Shibbir, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
